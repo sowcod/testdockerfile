@@ -1,3 +1,3 @@
 FROM hello-world
 
-EXPOSE '
+EXPOSE '8080'
