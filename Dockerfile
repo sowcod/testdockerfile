@@ -1,1 +1,3 @@
 FROM hello-world
+
+EXPOSE '
